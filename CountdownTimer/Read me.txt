@@ -1,0 +1,4 @@
+1. Read desired input from user
+2. Calculate time left
+3. Images used from 'unsplash'
+4. Text used from 'Poppins - Google Fonts'
