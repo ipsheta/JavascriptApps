@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <!-- defer specifies that the script is downloaded in parallel to parsing the page, and executed after the page has finished parsing. 
+    If 'defer' is not written, script tag should be placed after body tag i.e. after all ids are created-->
+</head>
+
+<body>
+
+
+    <div class="quiz-container" id="quiz">
+
+        <div class="quiz-header">
+
+            <h2 id="question">Question Text</h2>
+            <ul>
+                <li><input type="radio" id="a" name="answer" class="answer">
+                    <label id="a_text" for="a">Question</label>
+                </li>
+
+                <li><input type="radio" id="b" name="answer" class="answer">
+                    <label id="b_text" for="b">Question</label>
+                </li>
+
+                <li><input type="radio" id="c" name="answer" class="answer">
+                    <label id="c_text" for="c">Question</label>
+                </li>
+
+                <li><input type="radio" id="d" name="answer" class="answer">
+                    <label id="d_text" for="d">Question</label>
+                </li>
+
+                <!-- for and id denotes same id, therefore option text and radio button both will be selectable field.  -->
+
+            </ul>
+            <button id="evaluateAns">Evaluate Answer</button>
+
+        </div>
+
+
+        <button id="submit">
+                Next Question...
+            </button>
+        </div>
+
+</body>
+
+</html>

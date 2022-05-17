@@ -1,0 +1,7 @@
+1. Ask question
+2. Select answer
+3. Evaluate individual answer
+4. Show correct answer
+5. Show score in the end
+6. Gradient: https://www.eggradients.com/
+7. Button: flatuicolors.com
