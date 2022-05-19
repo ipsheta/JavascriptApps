@@ -1,0 +1,11 @@
+1. List of recipes by search
+2. Recipe info on click
+3. Click to add item to Fav. recipe (localstorage)
+4. Remove items from Fav. recipe (localstorage)
+
+APis (TheMealDB): https://github.com/public-api-lists/public-api-lists
+BG gradients: https://cssgradient.io/gradient-backgrounds/
+Icons: https://cdnjs.com/libraries/font-awesome
+Icons: https://fontawesome.com/icons
+
+How to solve CORS error: https://www.chrome-allow-file-access-from-file.com/windows.html
