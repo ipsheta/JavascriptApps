@@ -1,0 +1,8 @@
+1. List of Movies
+2. Movie info
+3. Favourite Movies
+4. Actors
+public api(TVMaze): https://github.com/public-api-lists/public-api-lists
+
+API URL: https://api.tvmaze.com/shows
+Search URL: https://api.tvmaze.com/search/shows?q=animal
