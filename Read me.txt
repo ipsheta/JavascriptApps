@@ -1,5 +1,0 @@
-1. CRUD note
-2. markdown
-3. localstorage
-4. Icons: https://fontawesome.com/icons
-Library: https://cdnjs.com/libraries/marked
