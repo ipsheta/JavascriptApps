@@ -1,0 +1,10 @@
+1. Search for users github profiles (public profiles)
+2. Profile summary
+3. View Repo detail (Having highest starts)
+
+Gradients: https://cssgradient.io/gradient-backgrounds/
+Gradients: https://www.eggradients.com/
+Icons: https://heroicons.com/
+
+Idea source: https://codepen.io/
+API url: https://api.github.com/users/florinpop17
