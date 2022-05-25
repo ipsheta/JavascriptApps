@@ -1,0 +1,5 @@
+1. Gen. password of preferred length
+2. optional selection for uppercase, lowercase, number, symbol (atleast 1)
+3. Copy to clipboard
+
+Gradient link: Gradient: https://www.eggradients.com/
