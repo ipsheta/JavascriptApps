@@ -1,17 +1,3 @@
-1. 
-2. 
-3. 
-4. 
-
-
-http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=civil&output=json
-
-
-
-http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=meteo&output=json
-
-
-
-
-
-https://api.meteomatics.com/2022-05-20T18:15:00.000+02:00--2022-05-21T18:15:00.000+02:00:PT1H/t_2m:C,wind_dir_FL10:d,wind_speed_FL10:bft,absolute_humidity_2m:gm3,cloud_layer:idx,air_density_100m:kgm3,sunrise:dn,sunset:dn,snow_density:kgm3,is_rain_30min:idx/55.099161,5.8663153_47.2701114,15.0419309:10,20/json?model=mix
+1. Get weather info from latitude and longitude
+2. Currect day weather
+3. Forcast for next 2days
